@@ -58,7 +58,7 @@ The data imported/exported from the block is as follows:
 | showlinenumbers (optional) | Will show/hide the line numbers (Default true) (WIP - [Codeflask #132](https://github.com/kazzkiq/CodeFlask/issues/132)) |
 
 
-Since language and linenumbers are optional, existing ```code``` blocks can safley use this plugin
+Since language and linenumbers are optional, existing ```code``` blocks can safely use this plugin
 
 
 
